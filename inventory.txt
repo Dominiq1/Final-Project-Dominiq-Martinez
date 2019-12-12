@@ -1,0 +1,100 @@
+T-shirt,Big Malboro,Faded Black USA,L,52cm,78cm,10.00
+T-shirt,Big Malboro,Cream Flinestones T,L,54cm,78cm,20.00
+T-shirt,Big Malboro,80's Lou Gehrig,M/L,57cm,68cm,20.00
+T-shirt,C,Red Lacoste Turtleneck,M,55cm,74cm,20.00
+T-shirt,C,Umbro Striped V Neck,M,50cm,72cm,20.00
+T-shirt,C,Nike Gray on Gray Swoosh, L,59cm,71cm,20.00
+T-shirt,C,Black Reebok Raiders,M,54cm,72cm,20.00
+T-shirt,C,Obama MLK Black,L/XL,62cm,74cm,20.00
+T-shirt,C,Million Family March,L/XL,63cm,71cm,20.00
+T-shirt,C,Salmon Nike Gray Tag,M,50cm,67cm,20.00
+T-shirt,C,94 Pink Floyd Raglan,S,47cm,74cm,20.00
+T-shirt,C,98 WCW Goldberg Black,L/XL,60cm,74cm,20.00
+Jersey,Small Malboro,Shaq All-Stars Jersey,YXL,50cm,52cm,20.00
+Jersey,Black Jordan,Reebok Argentina Jersey,M/L,57cm,70cm,50.00
+Jersey,Black Jordan,Adidas 80s Liverpool,M,53cm,70cm,50.00
+Jersey,Big Malboro,50's Brooklyn Dodgers,L,57cm,71cm,50.00
+Jersey,C,Umbro Bromwich Striped,S/M,52cm,71cm,50.00
+Jersey,C,Adidas Argentina #44,M,50cm,68cm,50.00
+Jacket,Small Malboro,Denim Embroidered Character,M,56cm,64cm,80.00
+Jacket,Small Malboro,Nike Grape Jacket,L,60cm,66cm,80.00
+Jacket,Small Malboro,Nike Purple White Navy,XL,68cm,70cm,80.00
+Jacket,Black Jordan,USC by ProPlayer,L,66cm,70cm,80.00
+Jacket,Black Jordan,Navy Nike Dirtyish,L,68cm,70cm,80.00
+Jacket,Black Jordan,Nike V Neck Jacket,L,66cm,71cm,75.00
+Jacket,Big Malboro,Nike USA Track Jacket,M,56cm,70cm,80.00
+Jacket,Big Malboro,Puma Jacket Blue Green BBall,T-S/M,64cm,66cm,80.00
+Jacket,C,Levis Sherpa Trucker,46R/L,65cm,66cm,80.00
+Jacket,C,Adidas Magic Track Blue Black,M,56cm,70cm,80.00
+Jacket,C,Red Umbro Jacket,L/XL,59cm,73cm,80.00
+Jacket,C,Adidas White Striped Windbreaker,S,52cm,60cm,80.00
+Jacket,C,Givenchy Navy Purple Green,M,59cm,62cm,80.00
+Jacket,C,Givenchy Gray Black Dark Green,L,60cm,66cm,80.00
+Jacket,C,Nike Cream White label,I/XL,68cm,70cm,80.00
+Jacket,C,Members ONly Burgundy,M/L,64cm,64cm,80.00
+Jacket,C,JH Hooters Racing Reversible,L,64cm,70cm,80.00
+Jacket,C,Perry Ellis Light Blue Windbreaker,XL,68cm,71cm,80.00
+Jacket,C,Adidas Black White Packable,L/XL,67cm,72cm,80.00
+Jacket,C,Black Snap On Leather Jkt,L,64cm,68cm,80.00
+Jacket,nonexistent,Versace print coat,M,56cm,70cm,150.00
+Jacket,nonexistent,Tommy Jacket,XL,65cm,70cm,180.00
+Misc,nonexistent,Fergamo belt,M,65cm,70cm,100.00
+Misc,nonexistent,Tommy 90's Colorblock Flag Backpack,N/A,N/A,NA,120.00
+Jacket,nonexistent,Tommy Jeans Velou Puffer Jacket,S,70cm,65cm,100.00
+Shoes,nonexistent,Tommy Hilfiger OG Athletic Sneakers,10,N/A,N/A,65.00
+T-shirt,nonexistent,1994 World Cup T-shirt,L,54cm,65cm,40.00
+T-shirt,nonexistent,Chanel Multicolor 80's Bootleg,L,64cm,85cm,75.00
+Crewneck,nonexistent,1992 E.T. Crewneck,M,65cm,70cm,25.00
+T-shirt,nonexistent,Versace Sport Blue T-shirt,M,75cm,80cm,180.00
+T-shirt,nonexistent,Guess Jeans 1988 Shirt,S,55cm,60cm,45.00
+Crewneck,nonexistent,Versace Crewneck,XL,65cm,80cm,90.00
+Crewneck,nonexistent,Nike Headband,S,40cm,N/A,50.00
+Jewlery,Jewlery Box,D Chain,S, 4mm,N/A, 120.0
+Jewlery,Jewlery Box,Gucci Ring,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Vetements Chain,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Kappa Chain,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Vera Wang Necklace,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Prada Chain,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Nike Earings,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Louis Vuitton Earings,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Versace Chain,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Gucci Earings,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Gucci Grill,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Gucci Chain,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Fendi Ring,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Versace Ring,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Gold Plate Ring,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Brass Knuckle Ring,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Silver Ring,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Gold Ring,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Louis Vuitton Ring,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Chanel Ring,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Prada Ring,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Vetements Ring,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Nike Ring,S, 3mm,N/A, 20.0
+Jewlery,On-Hand Box,Versace Ring,S, 3mm,N/A, 20.0
+Jewlery,Jewlery Box,Uzi Chain,M, 6mm,N/A, 100.00
+Accessory,Accessory Bin,Rap Poster,3ft, 4ft,N/A, 100.00
+Accessory,Accessory Bin,Car Poster,3ft, 4ft,N/A, 100.00
+Accessory,Accessory Bin,Sports Poster,3ft, 4ft,N/A, 100.00
+Accessory,Accessory Bin,Rock Poster,3ft, 4ft,N/A, 100.00
+Accessory,Accessory Bin,Pop Poster,3ft, 4ft,N/A, 100.00
+Accessory,Accessory Bin,Supreme Blimp,3ft, 4ft,N/A, 100.00
+Accessory,Accessory Bin,Supreme Backpack,3ft, 4ft,N/A, 100.00
+Accessory,Accessory Bin,Supreme Wallet,3in, 4ft,N/A, 100.00
+Accessory,Accessory Bin,Supreme Poster,3ft, 4ft,N/A, 100.00
+Accessory,Accessory Bin,Bape Poster,3ft, 4ft,N/A, 100.00
+Accessory,Accessory Bin,Nike Poster,3ft, 4ft,N/A, 100.00
+Accessory,Accessory Bin,Michael Jackson Poster,3ft, 4ft,N/A, 100.00
+Accessory,Accessory Bin,MLK,3ft, 4ft,N/A, 100.00
+Accessory,Accessory Bin,Drake Poster,3ft, 4ft,N/A, 100.00
+Accessory,Accessory Bin,Lakers Poster,3ft, 4ft,N/A, 100.00
+Accessory,Accessory Bin,Celtics Poster,3ft, 4ft,N/A, 100.00
+Accessory,Accessory Bin,Dodgers Poster,3ft, 4ft,N/A, 100.00
+Accessory,Accessory Bin,Adidas Poster,3ft, 4ft,N/A, 10.00
+Accessory,Accessory Bin,Jordan Poster Poster,3ft, 4ft,N/A, 10.00
+Accessory,Accessory Bin,Apple poster,3ft, 4ft,N/A, 10.00
+Accessory,Accessory Bin,Microsoft Poster,3ft, 4ft,N/A, 15.00
+Accessory,Accessory Bin,Steve Jobs Poster,3ft, 4ft,N/A, 100.00
+Accessory,Accessory Bin,Monopoly Poster,3ft, 4ft,N/A, 50.00
+Accessory,Accessory Bin,Wutang Poster,3ft, 4ft,N/A, 10.00

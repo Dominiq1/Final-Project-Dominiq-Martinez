@@ -1,0 +1,17 @@
+YO: I added this file for you. Please use this file to include the project proposal and future updates.
+
+In this project I will be managing the inventory of an ecommerece clothing application. 
+
+I would like the user to organize the inventory in 4 ways. Each of these are going to be used in a real application so I would like to understand the way in which they should work through this project. 
+
+
+
+1) from most to least expensive
+2) from least to most expensive
+3) from smallest size to largest
+4) from largest to smallest size
+
+I am trying to find an algorithm for organizing a list of float numbers from greatest to least but am struggling with trying to find and insert and extractings method for arrays. 
+
+
+
